@@ -4,20 +4,30 @@
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
     "web": "expo start --web"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
     "expo": "~52.0.32",
+    "expo-asset": "^11.0.3",
+    "expo-av": "~15.0.2",
     "expo-status-bar": "~2.0.1",
+    "js-tiktoken": "^1.0.18",
     "react": "18.3.1",
-    "react-native": "0.76.7"
+    "react-native": "0.76.7",
+    "react-native-audio-api": "^0.4.6",
+    "react-native-executorch": "file:///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test246.tgz",
+    "react-native-live-audio-stream": "^1.1.1",
+    "react-native-svg": "^15.11.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~18.3.12",
+    "react-native-svg-transformer": "^1.5.0",
     "typescript": "^5.3.3"
   },
-  "private": true
+  "private": true,
+  "packageManager": "yarn@4.6.0+sha512.5383cc12567a95f1d668fbe762dfe0075c595b4bfff433be478dbbe24e05251a8e8c3eb992a986667c1d53b6c3a9c85b8398c35a960587fbd9fa3a0915406728"
 }
