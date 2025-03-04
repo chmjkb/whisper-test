@@ -6765,9 +6765,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-executorch@file:///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test246.tgz::locator=whisper-test%40workspace%3A.":
+"react-native-executorch@file:///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test4.tgz::locator=whisper-test%40workspace%3A.":
   version: 0.2.0
-  resolution: "react-native-executorch@file:///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test246.tgz#///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test246.tgz::hash=08f8bd&locator=whisper-test%40workspace%3A."
+  resolution: "react-native-executorch@file:///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test4.tgz#///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test4.tgz::hash=f802b5&locator=whisper-test%40workspace%3A."
   dependencies:
     expo-asset: "npm:^11.0.3"
     expo-file-system: "npm:^18.0.10"
@@ -6775,7 +6775,7 @@ __metadata:
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 10c0/856304be7473d88192f20a009991f43f6f3d790a8cf264a5b5f13b71da22a06f82a03d15ef17a1e2e02e390135c3241473b641e3a5e28bfb319826f1a0146a02
+  checksum: 10c0/97ab2c71b8a0de2f9add4241489180de0677ab603994e42d93e09db3c12adb1d27c4d2ff0d84f1a9d8d49dcdc45bcdf13a0896a52680ae0950fdfe21999c332e
   languageName: node
   linkType: hard
 
@@ -8255,7 +8255,7 @@ __metadata:
     react: "npm:18.3.1"
     react-native: "npm:0.76.7"
     react-native-audio-api: "npm:^0.4.6"
-    react-native-executorch: "file:///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test246.tgz"
+    react-native-executorch: "file:///Users/jakubchmura/Desktop/SWM_AI/react-native-executorch/react-native-executorch-0.2.0-test4.tgz"
     react-native-live-audio-stream: "npm:^1.1.1"
     react-native-svg: "npm:^15.11.2"
     react-native-svg-transformer: "npm:^1.5.0"

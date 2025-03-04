@@ -39,7 +39,7 @@ const SpeechToTextScreen: FC = () => {
   useEffect(() => {
     if (!sttRef.current) {
       sttRef.current = new SpeechToTextController({
-        onTokenCallback: onToken,
+        onTokenCallback: onToken as any,
       });
     }
 
